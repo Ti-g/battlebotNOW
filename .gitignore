@@ -12,3 +12,6 @@
 .pio
 .pioenvs
 .piolibdeps
+
+#kicad
+_autosave-*
